@@ -1,3 +1,14 @@
+# GTA_Ultra_Mods update v3.3<br>
+
+
+Added Semjase's Eboot and Extortion Eboot<br>
+Added The Hustler sprx menu v1.9  (cex&dex) and still kept v1.8<br>
+Added mod loader Jakemodz89 v11 <br>
+Updated modloader James Reborn v26 to v33<br>
+Updated salfety  v2.9 to 4.2 in (CEX&DEX) section
+and kept salftey v3.7 in DEX section (for those that like that version)<br>
+Removed all the "paid" sprx menus as they were not working<br><br><br>
+
 # GTA_Ultra_Mods update v3.2
 
 
